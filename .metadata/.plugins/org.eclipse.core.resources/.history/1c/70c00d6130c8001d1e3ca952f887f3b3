@@ -1,0 +1,11 @@
+package ar.edu.unlp.info.oo2.ejercicio_1;
+
+public class Twitter {
+	private ArrayList<Usuario> usuarios;
+	private ArrayList<Tweet> tweets;
+	
+	public Twitter() {
+		this.usuarios = new ArrayList<Usuario>();
+		this.tweets = new ArrayList<Tweet>();
+	}
+}

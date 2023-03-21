@@ -1,0 +1,252 @@
+2023-03-21 17:58:58,441 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-03-21 18:02:09,144 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://github.com/unlp-info-objetos/oo2-2022/blob/main/oo2_archetype-archetype-0.0.2/oo2_archetype-archetype-0.0.2.jar?raw=true/ar/edu/unlp/info/oo2/objetos-dos/0.0.2/objetos-dos-0.0.2.pom
+2023-03-21 18:02:09,797 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://github.com/unlp-info-objetos/oo2-2022/blob/main/oo2_archetype-archetype-0.0.2/oo2_archetype-archetype-0.0.2.jar?raw=true/ar/edu/unlp/info/oo2/objetos-dos/0.0.2/objetos-dos-0.0.2.pom
+2023-03-21 18:02:10,834 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://github.com/unlp-info-objetos/oo2-2022/blob/main/oo2_archetype-archetype-0.0.2/oo2_archetype-archetype-0.0.2.jar?raw=true/ar/edu/unlp/info/oo2/objetos-dos/0.0.2/objetos-dos-0.0.2.jar
+2023-03-21 18:02:11,656 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://github.com/unlp-info-objetos/oo2-2022/blob/main/oo2_archetype-archetype-0.0.2/oo2_archetype-archetype-0.0.2.jar?raw=true/ar/edu/unlp/info/oo2/objetos-dos/0.0.2/objetos-dos-0.0.2.jar
+2023-03-21 18:03:27,995 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149 [1196])
+2023-03-21 18:03:28,003 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149
+2023-03-21 18:03:28,003 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\aether-connector-okhttp-0.17.8.jar
+2023-03-21 18:03:28,005 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-cli-1.4.jar
+2023-03-21 18:03:28,005 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-io-2.6.jar
+2023-03-21 18:03:28,005 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\commons-lang3-3.8.1.jar
+2023-03-21 18:03:28,006 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\guice-4.2.2-no_aop.jar
+2023-03-21 18:03:28,006 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\jansi-2.4.0.jar
+2023-03-21 18:03:28,006 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-artifact-3.8.6.jar
+2023-03-21 18:03:28,007 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-builder-support-3.8.6.jar
+2023-03-21 18:03:28,007 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-compat-3.8.6.jar
+2023-03-21 18:03:28,007 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-core-3.8.6.jar
+2023-03-21 18:03:28,008 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-embedder-3.8.6.jar
+2023-03-21 18:03:28,008 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-3.8.6.jar
+2023-03-21 18:03:28,008 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-model-builder-3.8.6.jar
+2023-03-21 18:03:28,008 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-plugin-api-3.8.6.jar
+2023-03-21 18:03:28,008 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-repository-metadata-3.8.6.jar
+2023-03-21 18:03:28,009 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-api-1.6.3.jar
+2023-03-21 18:03:28,009 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-connector-basic-1.6.3.jar
+2023-03-21 18:03:28,009 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-impl-1.6.3.jar
+2023-03-21 18:03:28,009 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-provider-3.8.6.jar
+2023-03-21 18:03:28,010 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-spi-1.6.3.jar
+2023-03-21 18:03:28,010 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-transport-wagon-1.6.3.jar
+2023-03-21 18:03:28,010 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-resolver-util-1.6.3.jar
+2023-03-21 18:03:28,011 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-3.8.6.jar
+2023-03-21 18:03:28,011 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-settings-builder-3.8.6.jar
+2023-03-21 18:03:28,011 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\maven-shared-utils-3.3.4.jar
+2023-03-21 18:03:28,012 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okhttp-3.14.1.jar
+2023-03-21 18:03:28,012 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\okio-1.17.3.jar
+2023-03-21 18:03:28,012 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.inject-0.3.5.jar
+2023-03-21 18:03:28,012 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\org.eclipse.sisu.plexus-0.3.5.jar
+2023-03-21 18:03:28,012 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-build-api-0.0.7.jar
+2023-03-21 18:03:28,012 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-cipher-2.0.jar
+2023-03-21 18:03:28,013 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-classworlds-2.6.0.jar
+2023-03-21 18:03:28,013 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-component-annotations-2.1.0.jar
+2023-03-21 18:03:28,013 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-interpolation-1.26.jar
+2023-03-21 18:03:28,013 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-sec-dispatcher-2.0.jar
+2023-03-21 18:03:28,013 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\plexus-utils-3.3.1.jar
+2023-03-21 18:03:28,013 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-file-3.5.1.jar
+2023-03-21 18:03:28,014 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.604.20221130-2149\jars\wagon-provider-api-3.5.1.jar
+2023-03-21 18:03:28,017 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_30.1.0.v20221112-0806 [1041])
+2023-03-21 18:03:28,020 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\com.google.guava_30.1.0.v20221112-0806.jar
+2023-03-21 18:03:28,021 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_1.7.36 [1334])
+2023-03-21 18:03:28,022 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\slf4j.api_1.7.36.jar
+2023-03-21 18:03:28,023 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.inject_1.0.0.v20220405-0441 [31])
+2023-03-21 18:03:28,025 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\javax.inject_1.0.0.v20220405-0441.jar
+2023-03-21 18:03:28,026 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=javax.annotation_1.3.5.v20221112-0806 [1051])
+2023-03-21 18:03:28,028 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\facuo\.p2\pool\plugins\javax.annotation_1.3.5.v20221112-0806.jar
+2023-03-21 18:03:28,042 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\facuo\AppData\Local\Temp\m2e-archetypeGenerator9274076167887054650":
+2023-03-21 18:03:28,048 [Worker-13: Launching mavenrun-b656c8a1-6208-402f-8823-97df39b95886] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=ar.edu.unlp.info.oo2 -DarchetypeArtifactId=objetos-dos -DarchetypeVersion=0.0.2 -DgroupId=ar.edu.unlp.info.oo2 -DartifactId=ejercicio_1 -Dversion=0.0.1-SNAPSHOT -Dpackage=ar.edu.unlp.info.oo2.ejercicio_1 -DoutputDirectory=C:\Users\facuo\facultad -Dstyle.color=always -U archetype:generate
+2023-03-21 18:04:36,165 [Worker-14: Creating objetos-dos] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\facuo\facultad\ejercicio_1\pom.xml
+2023-03-21 18:04:37,934 [Worker-14: Creating objetos-dos] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.22.2/maven-surefire-plugin-2.22.2.jar
+2023-03-21 18:04:38,780 [Worker-14: Creating objetos-dos] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.22.2/maven-surefire-plugin-2.22.2.jar
+2023-03-21 18:04:42,951 [Worker-14: Creating objetos-dos] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.unlp.info.oo2:ejercicio_1:0.0.1-SNAPSHOT @ C:\Users\facuo\facultad\ejercicio_1\pom.xml.
+2023-03-21 18:04:43,263 [Worker-14: Creating objetos-dos] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.7.2/junit-jupiter-engine-5.7.2.pom
+2023-03-21 18:04:43,422 [Worker-14: Creating objetos-dos] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.7.2/junit-jupiter-engine-5.7.2.pom
+2023-03-21 18:04:43,501 [Worker-14: Creating objetos-dos] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.7.2/junit-bom-5.7.2.pom
+2023-03-21 18:04:43,538 [Worker-14: Creating objetos-dos] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.7.2/junit-bom-5.7.2.pom
+2023-03-21 18:04:43,580 [Worker-14: Creating objetos-dos] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.pom
+2023-03-21 18:04:43,721 [Worker-14: Creating objetos-dos] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.pom
+2023-03-21 18:04:43,881 [Worker-14: Creating objetos-dos] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.7.2/junit-platform-engine-1.7.2.pom
+2023-03-21 18:04:43,994 [Worker-14: Creating objetos-dos] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.7.2/junit-platform-engine-1.7.2.pom
+2023-03-21 18:04:44,019 [Worker-14: Creating objetos-dos] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.pom
+2023-03-21 18:04:44,058 [Worker-14: Creating objetos-dos] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.pom
+2023-03-21 18:04:44,111 [Worker-14: Creating objetos-dos] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.7.2/junit-platform-commons-1.7.2.pom
+2023-03-21 18:04:44,196 [Worker-14: Creating objetos-dos] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.7.2/junit-platform-commons-1.7.2.pom
+2023-03-21 18:04:44,271 [Worker-14: Creating objetos-dos] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.7.2/junit-jupiter-api-5.7.2.pom
+2023-03-21 18:04:44,444 [Worker-14: Creating objetos-dos] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.7.2/junit-jupiter-api-5.7.2.pom
+2023-03-21 18:04:44,636 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar
+2023-03-21 18:04:44,655 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar
+2023-03-21 18:04:44,660 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.7.2/junit-platform-commons-1.7.2.jar
+2023-03-21 18:04:44,702 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.7.2/junit-platform-engine-1.7.2.jar
+2023-03-21 18:04:44,707 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.7.2/junit-jupiter-engine-5.7.2.jar
+2023-03-21 18:04:44,758 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar
+2023-03-21 18:04:44,772 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.7.2/junit-platform-commons-1.7.2.jar
+2023-03-21 18:04:44,774 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar
+2023-03-21 18:04:44,779 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.7.2/junit-jupiter-api-5.7.2.jar
+2023-03-21 18:04:44,838 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.7.2/junit-platform-engine-1.7.2.jar
+2023-03-21 18:04:44,838 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.7.2/junit-jupiter-engine-5.7.2.jar
+2023-03-21 18:04:44,941 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.7.2/junit-jupiter-api-5.7.2.jar
+2023-03-21 18:04:45,029 [Worker-14: Creating objetos-dos] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.22.2/maven-surefire-plugin-2.22.2.pom
+2023-03-21 18:04:45,178 [Worker-14: Creating objetos-dos] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.22.2/maven-surefire-plugin-2.22.2.pom
+2023-03-21 18:04:45,200 [Worker-14: Creating objetos-dos] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.22.2/surefire-2.22.2.pom
+2023-03-21 18:04:45,326 [Worker-14: Creating objetos-dos] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.22.2/surefire-2.22.2.pom
+2023-03-21 18:04:46,608 [Worker-14: Creating objetos-dos] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio_1/src/main/java
+2023-03-21 18:04:46,610 [Worker-14: Creating objetos-dos] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio_1/src/test/java
+2023-03-21 18:04:46,713 [Worker-14: Creating objetos-dos] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2023-03-21 18:04:47,222 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.7.2/junit-jupiter-engine-5.7.2-sources.jar
+2023-03-21 18:04:47,291 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.7.2/junit-jupiter-engine-5.7.2-sources.jar
+2023-03-21 18:04:47,294 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter-engine:5.7.2
+2023-03-21 18:04:47,387 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0-sources.jar
+2023-03-21 18:04:47,440 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0-sources.jar
+2023-03-21 18:04:47,444 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apiguardian:apiguardian-api:1.1.0
+2023-03-21 18:04:47,528 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.7.2/junit-platform-engine-1.7.2-sources.jar
+2023-03-21 18:04:47,602 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.7.2/junit-platform-engine-1.7.2-sources.jar
+2023-03-21 18:04:47,606 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.platform:junit-platform-engine:1.7.2
+2023-03-21 18:04:47,693 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0-sources.jar
+2023-03-21 18:04:47,694 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:04:47,694 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 18:04:47,698 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:04:47,699 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 18:04:47,812 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0-sources.jar
+2023-03-21 18:04:47,815 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.opentest4j:opentest4j:1.2.0
+2023-03-21 18:04:47,896 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.7.2/junit-platform-commons-1.7.2-sources.jar
+2023-03-21 18:04:47,963 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.7.2/junit-platform-commons-1.7.2-sources.jar
+2023-03-21 18:04:47,966 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.platform:junit-platform-commons:1.7.2
+2023-03-21 18:04:48,048 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.7.2/junit-jupiter-api-5.7.2-sources.jar
+2023-03-21 18:04:48,157 [Worker-6: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.7.2/junit-jupiter-api-5.7.2-sources.jar
+2023-03-21 18:04:48,163 [Worker-6: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter-api:5.7.2
+2023-03-21 18:04:48,964 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:04:48,964 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 18:04:48,967 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:04:48,967 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 18:05:19,010 [Worker-3: Launching ejercicio_1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.7.2/junit-platform-launcher-1.7.2.jar
+2023-03-21 18:05:19,233 [Worker-3: Launching ejercicio_1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-launcher/1.7.2/junit-platform-launcher-1.7.2.jar
+2023-03-21 18:05:47,012 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:05:47,012 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 18:05:47,016 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:05:47,016 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 18:05:52,418 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:05:52,418 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 18:05:52,425 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:05:52,426 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 18:06:44,504 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:06:44,504 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 18:06:44,513 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:06:44,513 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 18:06:45,527 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:06:45,528 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 18:06:45,530 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:06:45,531 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 18:07:04,752 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:07:04,752 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 18:07:04,756 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:07:04,756 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 18:07:21,744 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:07:21,745 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 18:07:21,749 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:07:21,749 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 18:09:57,659 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:09:57,659 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 18:09:57,661 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:09:57,662 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 18:11:21,127 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:11:21,127 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 18:11:21,129 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:11:21,129 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 18:16:12,001 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:16:12,002 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 18:16:12,004 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:16:12,004 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 18:16:41,150 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:16:41,150 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 18:16:41,152 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:16:41,153 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 18:17:46,334 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:17:46,334 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 18:17:46,336 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:17:46,336 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 18:18:22,757 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:18:22,757 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 18:18:22,760 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:18:22,760 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 18:19:04,154 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:19:04,155 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 18:19:04,157 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:19:04,157 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 18:20:59,666 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:20:59,667 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 18:20:59,670 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:20:59,670 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 18:23:52,403 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:23:52,404 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 18:23:52,406 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:23:52,407 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 18:35:29,046 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:35:29,046 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 18:35:29,048 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:35:29,048 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 18:36:03,252 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:36:03,252 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 18:36:03,254 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:36:03,254 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 18:38:13,607 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:38:13,607 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 18:38:13,609 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:38:13,609 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 18:38:39,058 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:38:39,058 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 18:38:39,061 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:38:39,061 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 18:38:54,586 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:38:54,586 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 18:38:54,588 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:38:54,588 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 18:39:12,962 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:39:12,963 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 18:39:12,965 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:39:12,965 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 18:39:23,694 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:39:23,694 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 18:39:23,695 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:39:23,696 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 18:39:26,880 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:39:26,881 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 18:39:26,882 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 18:39:26,884 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 19:02:09,452 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 19:02:09,453 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 19:02:09,456 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 19:02:09,456 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 19:03:16,731 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 19:03:16,731 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 19:03:16,733 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 19:03:16,733 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 19:03:25,023 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 19:03:25,023 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 19:03:25,026 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 19:03:25,026 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 19:05:06,362 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 19:05:06,363 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 19:05:06,364 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 19:05:06,364 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 19:11:39,539 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 19:11:39,540 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 19:11:39,542 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 19:11:39,542 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 19:12:20,248 [Worker-41: Launching ejercicio_1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 19:12:20,248 [Worker-41: Launching ejercicio_1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 19:12:20,250 [Worker-41: Launching ejercicio_1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 19:12:20,250 [Worker-41: Launching ejercicio_1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 19:18:27,829 [Worker-45: Launching ejercicio_1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 19:18:27,830 [Worker-45: Launching ejercicio_1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 19:18:27,832 [Worker-45: Launching ejercicio_1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 19:18:27,832 [Worker-45: Launching ejercicio_1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 19:19:21,522 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 19:19:21,522 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 19:19:21,524 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 19:19:21,525 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 19:19:43,479 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 19:19:43,479 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 19:19:43,480 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 19:19:43,480 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources
+2023-03-21 19:19:52,444 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 19:19:52,444 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\main\resources
+2023-03-21 19:19:52,446 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-21 19:19:52,446 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_1\src\test\resources

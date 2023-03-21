@@ -1,0 +1,44 @@
+package ar.edu.unlp.info.oo2.ejercicio_1;
+
+public class Tweet {
+	private Tweet tweetOrigen;
+	private String cuerpo;
+	
+	
+	public Tweet getTweetOrigen() {
+		return tweetOrigen;
+	}
+	public void setTweetOrigen(Tweet tweetOrigen) {
+		this.tweetOrigen = tweetOrigen;
+	}
+	public String getCuerpo() {
+		return cuerpo;
+	}
+	public void setCuerpo(String cuerpo) {
+		this.cuerpo = cuerpo;
+	}
+	
+	@Override
+	public String toString() {
+		return "Tweet [tweetOrigen=" + tweetOrigen + ", cuerpo=" + cuerpo + "]";
+	}
+	
+	public Tweet(Tweet tweetOrigen, String cuerpo) throws Exception {
+		super();
+		try {
+			this.tweetOrigen = tweetOrigen;
+			if ((cuerpo.length() >=1) && (cuerpo.length() <= 280)){
+				this.cuerpo = cuerpo;
+			}
+		}catch (Exception e) {
+			throw new Exception ("El cuerpo debe ser como minimo de 1 caracter"
+					+ "y como maximo 280 caracteres");
+		}
+		
+	}
+	
+	
+	
+}
+	
+	
