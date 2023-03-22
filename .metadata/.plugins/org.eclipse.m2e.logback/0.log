@@ -318,3 +318,237 @@
 2023-03-22 17:38:25,648 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\main\resources
 2023-03-22 17:38:25,656 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-03-22 17:38:25,657 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\test\resources
+2023-03-22 17:42:21,000 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 17:42:21,001 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\main\resources
+2023-03-22 17:42:21,004 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 17:42:21,005 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\test\resources
+2023-03-22 17:46:28,004 [Worker-19: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.unlp.info.oo2:biblioteca:0.0.2 @ C:\Users\facuo\facultad\ejercicio_2\pom.xml.
+2023-03-22 17:46:28,159 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 17:46:28,159 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\main\resources
+2023-03-22 17:46:28,163 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 17:46:28,164 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\test\resources
+2023-03-22 17:47:47,428 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 17:47:47,429 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\main\resources
+2023-03-22 17:47:47,432 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 17:47:47,433 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\test\resources
+2023-03-22 17:47:51,153 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 17:47:51,154 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\main\resources
+2023-03-22 17:47:51,156 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 17:47:51,156 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\test\resources
+2023-03-22 17:47:56,619 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 17:47:56,620 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\main\resources
+2023-03-22 17:47:56,624 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 17:47:56,624 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\test\resources
+2023-03-22 17:48:00,154 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 17:48:00,155 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\main\resources
+2023-03-22 17:48:00,158 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 17:48:00,159 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\test\resources
+2023-03-22 17:48:18,702 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 17:48:18,703 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\main\resources
+2023-03-22 17:48:18,706 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 17:48:18,706 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\test\resources
+2023-03-22 17:48:24,788 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 17:48:24,788 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\main\resources
+2023-03-22 17:48:24,790 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 17:48:24,790 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\test\resources
+2023-03-22 17:52:59,674 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 17:52:59,675 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\main\resources
+2023-03-22 17:52:59,677 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 17:52:59,677 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\test\resources
+2023-03-22 17:55:34,310 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.unlp.info.oo2:biblioteca:0.0.2 @ C:\Users\facuo\facultad\ejercicio_2\pom.xml.
+2023-03-22 17:55:34,638 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+2023-03-22 17:55:34,659 [Worker-22: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.pom
+2023-03-22 17:55:34,720 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar
+2023-03-22 17:55:34,746 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.jar
+2023-03-22 17:55:34,967 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar
+2023-03-22 17:55:34,999 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10.jar
+2023-03-22 17:55:35,134 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 17:55:35,135 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\main\resources
+2023-03-22 17:55:35,138 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 17:55:35,138 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\test\resources
+2023-03-22 17:55:36,189 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1-sources.jar
+2023-03-22 17:55:36,317 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1-sources.jar
+2023-03-22 17:55:36,327 [Worker-23: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.googlecode.json-simple:json-simple:1.1.1
+2023-03-22 17:55:36,468 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10-sources.jar
+2023-03-22 17:55:36,564 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 17:55:36,564 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\main\resources
+2023-03-22 17:55:36,566 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 17:55:36,566 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\test\resources
+2023-03-22 17:55:36,726 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.10/junit-4.10-sources.jar
+2023-03-22 17:55:36,731 [Worker-23: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for junit:junit:4.10
+2023-03-22 17:55:37,598 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 17:55:37,598 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\main\resources
+2023-03-22 17:55:37,601 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 17:55:37,601 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\test\resources
+2023-03-22 17:55:49,611 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.unlp.info.oo2:biblioteca:0.0.2 @ C:\Users\facuo\facultad\ejercicio_2\pom.xml.
+2023-03-22 17:55:49,725 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 17:55:49,725 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\main\resources
+2023-03-22 17:55:49,728 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 17:55:49,728 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\test\resources
+2023-03-22 18:00:19,858 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:00:19,858 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\main\resources
+2023-03-22 18:00:19,860 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:00:19,860 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\test\resources
+2023-03-22 18:01:45,528 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:01:45,528 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\main\resources
+2023-03-22 18:01:45,529 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:01:45,529 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\test\resources
+2023-03-22 18:05:44,553 [Worker-23: Launching ejercicio_2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:05:44,554 [Worker-23: Launching ejercicio_2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\main\resources
+2023-03-22 18:05:44,557 [Worker-23: Launching ejercicio_2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:05:44,557 [Worker-23: Launching ejercicio_2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\test\resources
+2023-03-22 18:06:35,539 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:06:35,539 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\main\resources
+2023-03-22 18:06:35,541 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:06:35,541 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\test\resources
+2023-03-22 18:07:43,102 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:07:43,102 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\main\resources
+2023-03-22 18:07:43,105 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:07:43,106 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\test\resources
+2023-03-22 18:07:54,883 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:07:54,884 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\main\resources
+2023-03-22 18:07:54,886 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:07:54,886 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\test\resources
+2023-03-22 18:08:12,125 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:08:12,125 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\main\resources
+2023-03-22 18:08:12,126 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:08:12,126 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\test\resources
+2023-03-22 18:08:35,748 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:08:35,749 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\main\resources
+2023-03-22 18:08:35,751 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:08:35,752 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\test\resources
+2023-03-22 18:11:44,083 [Worker-29: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.unlp.info.oo2:biblioteca:0.0.2 @ C:\Users\facuo\facultad\ejercicio_2\pom.xml.
+2023-03-22 18:11:44,481 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.13.1/jackson-core-2.13.1.jar
+2023-03-22 18:11:44,491 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.13.1/jackson-annotations-2.13.1.jar
+2023-03-22 18:11:44,513 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.13.1/jackson-databind-2.13.1.jar
+2023-03-22 18:11:44,915 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.13.1/jackson-annotations-2.13.1.jar
+2023-03-22 18:11:45,312 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.13.1/jackson-core-2.13.1.jar
+2023-03-22 18:11:45,727 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.13.1/jackson-databind-2.13.1.jar
+2023-03-22 18:11:45,832 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:11:45,832 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\main\resources
+2023-03-22 18:11:45,833 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:11:45,834 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\test\resources
+2023-03-22 18:11:46,916 [Worker-29: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.13.1/jackson-databind-2.13.1-sources.jar
+2023-03-22 18:11:47,107 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:11:47,107 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\main\resources
+2023-03-22 18:11:47,108 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:11:47,109 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\test\resources
+2023-03-22 18:11:47,631 [Worker-29: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.13.1/jackson-databind-2.13.1-sources.jar
+2023-03-22 18:11:47,653 [Worker-29: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-databind:2.13.1
+2023-03-22 18:11:47,707 [Worker-29: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.13.1/jackson-annotations-2.13.1-sources.jar
+2023-03-22 18:11:47,794 [Worker-29: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.13.1/jackson-annotations-2.13.1-sources.jar
+2023-03-22 18:11:47,800 [Worker-29: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-annotations:2.13.1
+2023-03-22 18:11:47,869 [Worker-29: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.13.1/jackson-core-2.13.1-sources.jar
+2023-03-22 18:11:48,166 [Worker-29: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.13.1/jackson-core-2.13.1-sources.jar
+2023-03-22 18:11:48,169 [Worker-29: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.fasterxml.jackson.core:jackson-core:2.13.1
+2023-03-22 18:11:48,346 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:11:48,347 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\main\resources
+2023-03-22 18:11:48,348 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:11:48,348 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\test\resources
+2023-03-22 18:18:38,933 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:18:38,934 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\main\resources
+2023-03-22 18:18:38,935 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:18:38,935 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_2\src\test\resources
+2023-03-22 18:20:09,043 [ModalContext] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for ar.edu.unlp.info.oo2:objetos-dos:jar:0.0.2 is missing, no dependency information available
+2023-03-22 18:20:12,950 [Worker-36: Launching mavenrun-483949cb-0fc0-4ab1-bc68-676ac586335d] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\facuo\AppData\Local\Temp\m2e-archetypeGenerator9214435346432159031":
+2023-03-22 18:20:12,950 [Worker-36: Launching mavenrun-483949cb-0fc0-4ab1-bc68-676ac586335d] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -DarchetypeGroupId=ar.edu.unlp.info.oo2 -DarchetypeArtifactId=objetos-dos -DarchetypeVersion=0.0.2 -DgroupId=ar.edu.unlp.info.oo2 -DartifactId=ejercicio_3 -Dversion=0.0.1-SNAPSHOT -Dpackage=ar.edu.unlp.info.oo2.ejercicio_3 -DoutputDirectory=C:\Users\facuo\facultad -Dstyle.color=always -U archetype:generate
+2023-03-22 18:20:33,509 [Worker-37: Creating objetos-dos] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\facuo\facultad\ejercicio_3\pom.xml
+2023-03-22 18:20:33,595 [Worker-37: Creating objetos-dos] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ar.edu.unlp.info.oo2:ejercicio_3:0.0.1-SNAPSHOT @ C:\Users\facuo\facultad\ejercicio_3\pom.xml.
+2023-03-22 18:20:33,731 [Worker-37: Creating objetos-dos] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio_3/src/main/java
+2023-03-22 18:20:33,732 [Worker-37: Creating objetos-dos] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ejercicio_3/src/test/java
+2023-03-22 18:20:33,754 [Worker-37: Creating objetos-dos] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2023-03-22 18:20:34,185 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:20:34,185 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\main\resources
+2023-03-22 18:20:34,188 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:20:34,188 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\test\resources
+2023-03-22 18:20:50,401 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:20:50,402 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\main\resources
+2023-03-22 18:20:50,403 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:20:50,403 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\test\resources
+2023-03-22 18:21:21,526 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:21:21,526 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\main\resources
+2023-03-22 18:21:21,528 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:21:21,528 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\test\resources
+2023-03-22 18:21:29,327 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:21:29,327 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\main\resources
+2023-03-22 18:21:29,328 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:21:29,328 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\test\resources
+2023-03-22 18:21:37,034 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:21:37,034 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\main\resources
+2023-03-22 18:21:37,035 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:21:37,036 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\test\resources
+2023-03-22 18:21:42,599 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:21:42,599 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\main\resources
+2023-03-22 18:21:42,602 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:21:42,602 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\test\resources
+2023-03-22 18:21:48,372 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:21:48,372 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\main\resources
+2023-03-22 18:21:48,373 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:21:48,374 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\test\resources
+2023-03-22 18:21:56,795 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:21:56,795 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\main\resources
+2023-03-22 18:21:56,797 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:21:56,798 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\test\resources
+2023-03-22 18:22:07,602 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:22:07,602 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\main\resources
+2023-03-22 18:22:07,603 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:22:07,604 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\test\resources
+2023-03-22 18:22:53,456 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:22:53,456 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\main\resources
+2023-03-22 18:22:53,458 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:22:53,458 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\test\resources
+2023-03-22 18:23:16,932 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:23:16,933 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\main\resources
+2023-03-22 18:23:16,934 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:23:16,934 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\test\resources
+2023-03-22 18:24:02,199 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:24:02,199 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\main\resources
+2023-03-22 18:24:02,200 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:24:02,200 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\test\resources
+2023-03-22 18:24:31,132 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:24:31,132 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\main\resources
+2023-03-22 18:24:31,133 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:24:31,134 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\test\resources
+2023-03-22 18:27:21,489 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:27:21,490 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\main\resources
+2023-03-22 18:27:21,491 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:27:21,491 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\test\resources
+2023-03-22 18:27:49,565 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:27:49,566 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\main\resources
+2023-03-22 18:27:49,567 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:27:49,567 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\test\resources
+2023-03-22 18:28:03,528 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:28:03,529 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\main\resources
+2023-03-22 18:28:03,531 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:28:03,532 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\test\resources
+2023-03-22 18:29:28,744 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:29:28,744 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\main\resources
+2023-03-22 18:29:28,746 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:29:28,746 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\test\resources
+2023-03-22 18:30:09,629 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:30:09,630 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\main\resources
+2023-03-22 18:30:09,631 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:30:09,632 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\test\resources
+2023-03-22 18:30:18,489 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:30:18,489 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\main\resources
+2023-03-22 18:30:18,490 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:30:18,491 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\test\resources
+2023-03-22 18:34:09,297 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:34:09,297 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\main\resources
+2023-03-22 18:34:09,300 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:34:09,300 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\test\resources
+2023-03-22 18:37:47,038 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:37:47,039 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\main\resources
+2023-03-22 18:37:47,040 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:37:47,040 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\test\resources
+2023-03-22 18:38:31,714 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:38:31,714 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\main\resources
+2023-03-22 18:38:31,715 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:38:31,715 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\test\resources
+2023-03-22 18:39:44,532 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:39:44,533 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\main\resources
+2023-03-22 18:39:44,534 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:39:44,534 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\test\resources
+2023-03-22 18:41:40,513 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-03-22 18:41:40,513 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\facuo\facultad\ejercicio_3\src\main\resources
+2023-03-22 18:41:40,514 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.

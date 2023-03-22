@@ -3,10 +3,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>ar.edu.unlp.info.oo2</groupId>
-  <artifactId>biblioteca</artifactId>
-  <version>0.0.2</version>
+  <artifactId>ejercicio_3</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
 
-  <name>ejemplo_maven</name>
+  <name>ejercicio_3</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -30,16 +30,7 @@
         <version>5.7.2</version>
         <scope>test</scope>
     </dependency>
-    <dependency>
-    	<groupId>com.googlecode.json-simple</groupId>
-    	<artifactId>json-simple</artifactId>
-    	<version>1.1.1</version>
-	</dependency>
-	<dependency>
-            <groupId>com.fasterxml.jackson.core</groupId>
-            <artifactId>jackson-databind</artifactId>
-            <version>2.13.1</version>
-        </dependency>
+
   </dependencies>
 
 
