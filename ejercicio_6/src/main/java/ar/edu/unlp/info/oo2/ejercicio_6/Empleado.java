@@ -19,7 +19,7 @@ public abstract class Empleado {
 	
 	
 	public double calcularSueldo() {
-		return ((this.calcularBasico() + this.calcularAdicional()) - ((this.calcularBasico() * 0.13) + (this.calcularAdicional() * 0.5)));
+		return ((this.calcularBasico() + this.calcularAdicional()) - ((this.calcularBasico() * 0.13) + (this.calcularAdicional() * 0.05)));
 	}
 	
 	

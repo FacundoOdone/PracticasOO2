@@ -13,14 +13,14 @@ public class Temporario extends Empleado{
 	}
 	
 	public double calcularBasico() {
-		return 20000 + this.horas * 300;
+		return 20000 + (this.horas * 300);
 	}
 	
 	public double calcularAdicional() {
 		double monto = 0;
 		if (casado)
 			monto+=5000;
-		return monto + this.hijos * 2000;
+		return monto + (this.hijos * 2000);
 	}
 	
 	

@@ -18,16 +18,16 @@ public class SueldoTest {
 	
 	@Test
 	void TestTemporario() {
-		assertEquals(27120, temporario.calcularSueldo());
+		assertEquals(31170, temporario.calcularSueldo());
 	}
 	
 	@Test
 	void TestPasante() {
-		assertEquals(23400, pasante.calcularSueldo());
+		assertEquals(28800, pasante.calcularSueldo());
 	}
 	
 	@Test
 	void TestPlanta() {
-		assertEquals(72500, planta.calcularSueldo());
+		assertEquals(98600, planta.calcularSueldo());
 	}
 }
