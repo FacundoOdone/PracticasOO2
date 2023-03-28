@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\facuo\Desktop\Facultad\Tercer Año\Primer Semestre\OO2\ejercicio_4"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -25,6 +26,8 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="ar.edu.unlp.info.oo2.ejercicio_6"/>
+			<item value="ar.edu.unlp.info.oo2.ejercicio_5"/>
 			<item value="ar.edu.unlp.info.oo2.ejercicio_4"/>
 			<item value="ar.edu.unlp.info.oo2.ejercicio_1"/>
 		</list>
@@ -32,6 +35,8 @@
 			<item value="ar.edu.unlp.info.oo2"/>
 		</list>
 		<list key="artifactId">
+			<item value="ejercicio_6"/>
+			<item value="ejercicio_5"/>
 			<item value="ejercicio_4"/>
 			<item value="ejercicio_1"/>
 		</list>
