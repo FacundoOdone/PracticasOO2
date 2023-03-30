@@ -10,8 +10,12 @@ public class Directorio extends ElementoPadre {
 	private ArrayList<ElementoPadre> archivos;
 	
 	public Directorio (String nombre, LocalDate fecha) {
-		super(nombre,(long) 32,fecha);
+		super(nombre,fecha);
 		archivos = new ArrayList<ElementoPadre>();
+	}
+	
+	public long getTamanio() {
+		return 32;
 	}
 	
 	public Long tamanioTotalOcupado() {
@@ -23,27 +27,22 @@ public class Directorio extends ElementoPadre {
 	}
 	
 	public Archivo archivoMasGrande() {
-		Archivo a = new Archivo ("vacio",LocalDate.of(0001, 1, 1),(long)-1);
-		for (ElementoPadre e :this.archivos) {
-			if (e.archivoMasGrande().getTamanio() > a.getTamanio())
-				a = e.archivoMasGrande();
-		}
-		if (a.getNombre().equals("vacio"))
-			return null;
-		else
-			return a;
+		return
+		this.archivos.stream()
+			.map(e -> e.archivoMasGrande())
+			.filter(e -> e != null)
+			.max((a1, a2) -> Long.compare(a1.getTamanio(), a2.getTamanio()))
+			.orElse(null);
 	}
 	
+	
 	public Archivo archivoMasNuevo() {
-		Archivo a = new Archivo ("vacio",LocalDate.of(0001, 1, 1),(long)-1);
-		for (ElementoPadre e :this.archivos) {
-			if (e.archivoMasNuevo().getFecha().isAfter(a.getFecha()))
-				a = e.archivoMasNuevo();
-		}
-		if (a.getNombre().equals("vacio"))
-			return null;
-		else
-			return a;
+	return
+			this.archivos.stream()
+				.map(e -> e.archivoMasNuevo())
+				.filter(e -> e != null)
+				.max((a1, a2) -> (a1.getFecha().compareTo(a2.getFecha())))
+				.orElse(null);
 	}
 	
 	public void addArchivo(ElementoPadre archivo) {

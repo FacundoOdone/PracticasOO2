@@ -4,9 +4,11 @@ import java.time.LocalDate;
 
 public class Archivo extends ElementoPadre {
 	
+	private long tamanio;
 	
 	public Archivo(String name, LocalDate fecha, Long tamanio) {
-		super(name,tamanio,fecha);
+		super(name,fecha);
+		this.tamanio = tamanio;
 	}
 	
 	public Long tamanioTotalOcupado() {
@@ -17,5 +19,13 @@ public class Archivo extends ElementoPadre {
 	}
 	public Archivo archivoMasNuevo() {
 		return this;
+	}
+
+	public long getTamanio() {
+		return tamanio;
+	}
+
+	public void setTamanio(long tamanio) {
+		this.tamanio = tamanio;
 	}
 }

@@ -19,9 +19,14 @@ public abstract class Empleado {
 	
 	
 	public double calcularSueldo() {
-		return ((this.calcularBasico() + this.calcularAdicional()) - ((this.calcularBasico() * 0.13) + (this.calcularAdicional() * 0.05)));
+		return this.calcularBasico() 
+				+ this.calcularAdicional() 
+				- this.calcularDescuento();
 	}
 	
+	public double calcularDescuento() {
+		return (this.calcularBasico() * 0.13) + (this.calcularAdicional() * 0.05);
+	}
 	
 	public abstract double calcularBasico();
 	public abstract double calcularAdicional();

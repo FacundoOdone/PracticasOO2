@@ -5,15 +5,10 @@ import java.util.Date;
 
 public abstract class ElementoPadre {
 	private String nombre;
-	private Long tamanio;
 	private LocalDate fecha;
-	
-	
-	
-	public ElementoPadre(String nombre, Long tamanio, LocalDate fecha) {
-		super();
+		
+	public ElementoPadre(String nombre, LocalDate fecha) {
 		this.nombre = nombre;
-		this.tamanio = tamanio;
 		this.fecha = fecha;
 	}
 	
@@ -23,12 +18,8 @@ public abstract class ElementoPadre {
 	public void setNombre(String nombre) {
 		this.nombre = nombre;
 	}
-	public Long getTamanio() {
-		return tamanio;
-	}
-	public void setTamanio(Long tamanio) {
-		this.tamanio = tamanio;
-	}
+	public abstract long getTamanio();
+	
 	public LocalDate getFecha() {
 		return fecha;
 	}
