@@ -10,9 +10,6 @@ public class ToDoItem {
 	private Instant tiempoComienzo;
 	private Instant tiempoFin;
 
-	
-	
-
 	public ToDoItem(String nombre) {
 		this.estado = new Pending();
 		this.nombre = nombre;
@@ -24,7 +21,12 @@ public class ToDoItem {
 	 * pending, si se encuentra en otro estado, no hace nada)
 	 */
 	public void start() {
-		this.estado = this.estado.start();
+		try {
+			this.estado = this.estado.start();
+			this.tiempoComienzo = this.estado.setTiempoComienzo();
+		} catch (RuntimeException e) {
+
+		}
 	}
 
 	/**
@@ -41,7 +43,12 @@ public class ToDoItem {
 	 * in-progress o pausada, si se encuentra en otro estado, no hace nada)
 	 */
 	public void finish() {
-		this.estado = this.estado.finish();
+		try {
+			this.estado = this.estado.finish();
+			this.tiempoFin = this.estado.setTiempoFin();
+		} catch (RuntimeException e) {
+
+		}
 	}
 
 	/**
@@ -51,7 +58,16 @@ public class ToDoItem {
 	 * error informando la causa específica del mismo.
 	 */
 	public Duration workedTime() {
-		return Duration.between(tiempoComienzo, tiempoFin);
+		try {
+			if (tiempoFin != null) {
+				return Duration.between(tiempoComienzo, tiempoFin);
+			} else {
+				return this.estado.workedTime(tiempoComienzo);
+			}
+		} catch (RuntimeException e) {
+			return null;
+		}
+
 	}
 
 	/**
@@ -59,9 +75,7 @@ public class ToDoItem {
 	 * contrario no hace nada."
 	 */
 	public void addComment(String comment) {
-		this.comentario = Estado.comentar(comment);
+		this.comentario = this.estado.comentar(comment);
 	}
-	
-	
 
 }
