@@ -8,7 +8,7 @@ public class Paused extends Estado{
 		return new Progress();
 	}
 	
-	public Estado finish(Estado estado) {
+	public Estado finish() {
 		return new Finished();
 	}
 	

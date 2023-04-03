@@ -6,8 +6,7 @@ import java.time.Instant;
 public class Pending extends Estado{
 	
 	
-	public Estado start(Estado estado) {
-		super.setTiempoComienzo();
+	public Estado start() {
 		return new Progress();
 	}
 	

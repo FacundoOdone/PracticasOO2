@@ -13,6 +13,10 @@ public abstract class Estado {
 	public Estado finish() {
 		return this;
 	}
+	
+	public Estado getEstado() {
+		return this;
+	}
 
 	public abstract Estado togglePause();
 	

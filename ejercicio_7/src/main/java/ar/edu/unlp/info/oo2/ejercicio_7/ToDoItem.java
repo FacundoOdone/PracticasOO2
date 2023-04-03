@@ -13,7 +13,6 @@ public class ToDoItem {
 	public ToDoItem(String nombre) {
 		this.estado = new Pending();
 		this.nombre = nombre;
-		tiempoComienzo = Instant.now();
 	}
 
 	/**
@@ -22,8 +21,9 @@ public class ToDoItem {
 	 */
 	public void start() {
 		try {
-			this.estado = this.estado.start();
 			this.tiempoComienzo = this.estado.setTiempoComienzo();
+			this.estado = this.estado.start();
+			
 		} catch (RuntimeException e) {
 
 		}
@@ -44,8 +44,8 @@ public class ToDoItem {
 	 */
 	public void finish() {
 		try {
-			this.estado = this.estado.finish();
 			this.tiempoFin = this.estado.setTiempoFin();
+			this.estado = this.estado.finish();
 		} catch (RuntimeException e) {
 
 		}
@@ -65,7 +65,7 @@ public class ToDoItem {
 				return this.estado.workedTime(tiempoComienzo);
 			}
 		} catch (RuntimeException e) {
-			return null;
+			throw new RuntimeException(e);
 		}
 
 	}
@@ -77,5 +77,47 @@ public class ToDoItem {
 	public void addComment(String comment) {
 		this.comentario = this.estado.comentar(comment);
 	}
+	
+	
+	public Estado getEstado() {
+		return this.estado;
+	}
 
+	public String getNombre() {
+		return nombre;
+	}
+
+	public void setNombre(String nombre) {
+		this.nombre = nombre;
+	}
+
+	public String getComentario() {
+		return comentario;
+	}
+
+	public void setComentario(String comentario) {
+		this.comentario = comentario;
+	}
+
+	public Instant getTiempoComienzo() {
+		return tiempoComienzo;
+	}
+
+	public void setTiempoComienzo(Instant tiempoComienzo) {
+		this.tiempoComienzo = tiempoComienzo;
+	}
+
+	public Instant getTiempoFin() {
+		return tiempoFin;
+	}
+
+	public void setTiempoFin(Instant tiempoFin) {
+		this.tiempoFin = tiempoFin;
+	}
+
+	public void setEstado(Estado estado) {
+		this.estado = estado;
+	}
+
+	
 }

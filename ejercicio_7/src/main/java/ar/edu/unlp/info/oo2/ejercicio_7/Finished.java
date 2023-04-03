@@ -7,9 +7,6 @@ public class Finished extends Estado {
 	
 	private Duration tiempoFin;
 	
-	public Finished() {
-		tiempoFin = Duration.between(getTiempoComienzo(), Instant.now());
-	}
 	
 	public Estado togglePause() {
 		throw new RuntimeException("La tarea esta en estado Finalizada");
